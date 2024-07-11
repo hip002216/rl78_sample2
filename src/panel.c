@@ -92,5 +92,4 @@ void panel(void)
 	DGOUT_PROC( 51, F0918, HIGH );
 	DGOUT_PROC( 52, F0919, HIGH );
 	DGOUT_PROC( 53, F0920, HIGH );
-	DGOUT_PROC( 54, fOFF, HIGH );
 }
